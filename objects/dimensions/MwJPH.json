@@ -1,0 +1,27 @@
+{
+  "qInfo": {
+    "qId": "MwJPH",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "H",
+    "qFieldDefs": [
+      "Order Date.autoCalendar.Year",
+      "Order Date.autoCalendar.Quarter",
+      "Order Date.autoCalendar.Month"
+    ],
+    "qFieldLabels": [],
+    "qAlias": "Sales Date hierarchy",
+    "qOrigin": "PROGRAM",
+    "title": "Sales Date hierarchy",
+    "coloring": {
+      "changeHash": "0.43123064718525617",
+      "hasValueColors": false
+    }
+  },
+  "qMetaDef": {
+    "title": "Sales Date hierarchy",
+    "description": "",
+    "tags": []
+  }
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "qName": "Category",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "City",
+    "qTags": [
+      "$ascii",
+      "$text",
+      "$geoname",
+      "$relates_Sample - Superstore.xlsx - Orders.City_GeoInfo"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Country/Region",
+    "qTags": [
+      "$ascii",
+      "$text",
+      "$geoname",
+      "$relates_Sample - Superstore.xlsx - Orders.Country/Region_GeoInfo"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Customer ID",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Customer Name",
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Discount",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Order Date",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Order ID",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Postal Code",
+    "qTags": [],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Product ID",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Product Name",
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Profit",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Quantity",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Region",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Row ID",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Sales",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qIsHidden": true,
+    "qName": "Sample - Superstore.xlsx - Orders.City_GeoInfo",
+    "qTags": [
+      "$ascii",
+      "$text",
+      "$geopoint",
+      "$hidden",
+      "$relates_City"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qName": "Sample - Superstore.xlsx - Orders.Country/Region_GeoInfo",
+    "qTags": [
+      "$ascii",
+      "$text",
+      "$hidden",
+      "$geopolygon",
+      "$relates_Country/Region"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qName": "Segment",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Ship Date",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Ship Mode",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "State",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  },
+  {
+    "qName": "Sub-Category",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Sample - Superstore.xlsx - Orders"
+    ]
+  }
+]

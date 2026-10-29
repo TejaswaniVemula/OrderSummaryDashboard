@@ -1,0 +1,12 @@
+{
+  "qTitle": "Order Summary Dashboard",
+  "qThumbnail": {},
+  "qUsage": "ANALYTICS",
+  "description": "Summary of All the orders of the Company",
+  "encrypted": true,
+  "id": "309d8847-df73-4c90-a296-b9f960c6affb",
+  "published": false,
+  "owner": "auth0|3bed7843baa1cf4751670428ad401773bf15e73ff1baae90ac362d8d696831e0",
+  "ownerId": "6ab4c4719b26734dc80459c9",
+  "_resourcetype": "app"
+}

@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "2c2432ab-83aa-460d-89c6-db0b8de5a402",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "currentName",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "Sample - Superstore.xlsx - Orders",
+  "qIsScriptCreated": true
+}
